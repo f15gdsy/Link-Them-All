@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/// <summary>
+/// Handles input, unity3d stuff.
+/// </summary>
 public class Test : MonoBehaviour {
 
 	private LTATile _tileSelected;

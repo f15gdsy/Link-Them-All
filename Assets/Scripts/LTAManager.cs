@@ -3,6 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 
 
+/// <summary>
+/// Handles all the important logics
+/// </summary>
 public class LTAManager : MonoBehaviour {
 
 	// Settings of the game

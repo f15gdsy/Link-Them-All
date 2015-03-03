@@ -3,6 +3,9 @@ using UnityEngine.UI;
 using System.Collections;
 
 
+/// <summary>
+/// Simple data structure to store tile information
+/// </summary>
 public class LTATile : MonoBehaviour {
 
 	public int row;
